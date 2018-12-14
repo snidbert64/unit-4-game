@@ -9,10 +9,10 @@ var characters = {
         name : "Darth Vader",
         id: "Vader",
         imageAlive : "assets/images/Darth_Vader.jpg",
-        health : 1500,
-        baseAttack : 5,
-        attack : 5,
-        counterAttack : 20
+        health : 80,
+        baseAttack : 10,
+        attack : 10,
+        counterAttack : 25
     },
     "Trooper" : {
         name : "Stormtrooper",
@@ -21,16 +21,16 @@ var characters = {
         health : 100,
         baseAttack : 10,
         attack : 10,
-        counterAttack : 20
+        counterAttack : 10
     },
     "Sand" : {
         name : "Sandtrooper",
         id : "Sand",
         imageAlive : "assets/images/Sandtrooper_DICE.png",
         health : 100,
-        baseAttack : 5,
-        attack : 5,
-        counterAttack : 20
+        baseAttack : 10,
+        attack : 10,
+        counterAttack : 10
     },
     "Luke" : {
         name : "Luke Skywalker",
@@ -39,7 +39,7 @@ var characters = {
         health : 150,
         baseAttack : 5,
         attack : 5,
-        counterAttack : 20
+        counterAttack : 5
     }
 }
 
